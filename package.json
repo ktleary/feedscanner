@@ -1,6 +1,6 @@
 {
   "name": "feedscanner",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "RSS feed scanner",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/ktleary/feedscanner"
+    "url": "https://github.com/ktleary/feedscanner"
   },
   "keywords": [
     "feedscanner"
